@@ -1,3 +1,6 @@
+##Demo
+![Screenshot](/screenshot.png)
+ 
 ## How to run this project?
 1. Open 'index.html' in your browser
 2. Check out the result shown at the bottom of the page and see the test result
